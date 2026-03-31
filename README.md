@@ -2,8 +2,8 @@
 
 ## 👤 Student Details
 
-- Name: [Priyanshi Gupta]  
-- Roll Number: [24BCE10525]  
+- Name: Priyanshi Gupta  
+- Roll Number: 24BCE10525  
 
 ---
 
