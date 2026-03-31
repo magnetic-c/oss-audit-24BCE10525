@@ -1,0 +1,6 @@
+--------------------------------------
+ Open Source Manifesto
+--------------------------------------
+Date: Tue Mar 31 21:56:26 IST 2026
+
+I use Git daily. For me, freedom means Independence. I would like to build AI tools for education purpose and share it with everyone. Open source helps people learn, grow, and collaborate together.
